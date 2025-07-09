@@ -1,5 +1,5 @@
 {
-  "name": "react-rte-cinapsis",
+  "name": "react-rte",
   "version": "0.16.6",
   "description": "React Rich Text Editor",
   "main": "dist/react-rte.js",
