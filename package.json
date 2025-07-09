@@ -1,6 +1,6 @@
 {
-  "name": "react-rte",
-  "version": "0.16.5",
+  "name": "react-rte-cinapsis",
+  "version": "0.16.6",
   "description": "React Rich Text Editor",
   "main": "dist/react-rte.js",
   "files": [
@@ -62,6 +62,9 @@
     "style-loader": "^0.18.2",
     "webpack": "^3.4.0",
     "webpack-dev-server": "^2.6.1"
+  },
+  "overrides": {
+    "ua-parser-js": "0.7.40"
   },
   "repository": {
     "type": "git",
